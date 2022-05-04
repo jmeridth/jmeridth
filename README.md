@@ -4,7 +4,7 @@ I am a continuously learning staff/lead software developer and site reliability 
 
 I reserve the right to change my mind upon obtaining more information.
 
-![jmeridth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmeridth&count_private=true)
+![jmeridth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmeridth&count_private=true&theme=vision-friendly-dark)
 
 I enjoy being in the "Ten Thousand" every day
 
