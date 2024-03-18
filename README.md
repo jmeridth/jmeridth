@@ -1,8 +1,8 @@
 # Hello
 
-Hi.  I'm Jason or JM.
+Hi.  I'm JM (Jason Meridth).
 
-I'm a software programmer with a passion for automation, open source, security and learning.
+I'm a software programmer with a passion for automation, open source and innersource, security and learning.
 
 
 [![pull-requests-welcome](https://github.com/jmeridth/jmeridth/assets/35014/bc806530-2389-483f-810f-2e5f01cc34c0)](https://dribbble.com/shots/3775558--Pull-Requests-Welcome-hand-painted-sign)
