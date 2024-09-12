@@ -22,3 +22,7 @@ And of course ...
 </picture>
 
 <sup><sub>permission to use above image given by creator here: https://github.com/jglovier/ama/issues/13</sub></sup>
+
+### Skills (alphabetical)
+
+[![My Skills](https://skillicons.dev/icons?i=ansible,aws,azure,bash,bitbucket,bootstrap,c,cs,cpp,cloudflare,coffeescript,css,dart,debian,discord,bots,django,docker,dotnet,dynamodb,eclipse,elasticsearch,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,gmail,go,grafana,graphql,heroku,html,java,js,jenkins,jquery,kafka,kubernetes,md,mongodb,mysql,neovim,nextjs,nginx,nodejs,npm,obsidian,openstack,perl,php,postgres,postman,powershell,prometheus,py,rabbitmq,rails,raspberrypi,react,redhat,redis,regex,replit,ruby,sass,sqlite,stackoverflow,selenium,sentry,tailwind,terraform,ts,ubuntu,vim,vscode,vue)](https://skillicons.dev)
