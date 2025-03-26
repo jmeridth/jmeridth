@@ -1,4 +1,4 @@
-# Hello.  I'm JM (Jason Meridth).
+# Hello.  I'm Jason Meridth.
 
 I am a continually learning and accomplished software developer
 
