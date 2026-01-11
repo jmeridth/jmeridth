@@ -1,6 +1,6 @@
 # Hello.  I'm Jason Meridth.
 
-I am a continually learning and accomplished software developer/site reliability engineer.
+I am a continually learning and accomplished [software|site reliability|platform] engineer.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmeridth&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jmeridth&theme=monokai)
