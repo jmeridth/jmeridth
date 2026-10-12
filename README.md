@@ -1,3 +1,3 @@
 # Hello.  I'm Jason Meridth.
 
-Leads and maintains multiple open source projects, including many in the CNCF and OpenSSF communities. Background includes Chainguard, GitHub, Rackspace and Cisco. Strong passion for security, open source, automation, and mentorship.
+I am a Staff+ Software Engineer with over three decades of experience designing, building, and scaling software systems that power modern engineering organizations. My work spans cloud-native infrastructure, distributed systems, application development, and container orchestration, with a consistent focus on reliability, security, and developer experience. I'm also an open source maintainer for multiple projects including major CNCF and OpenSSF projects. I have experience in independent contribution, technical leadership, management, community organization, and mentoring.
